@@ -1,0 +1,9 @@
+Line 84: Class RichTextLib.RichTextBox of control rectxt was not a loaded control class.
+Line 91: The property name _ExtentX in rectxt is invalid.
+Line 92: The property name _ExtentY in rectxt is invalid.
+Line 93: The property name _Version in rectxt is invalid.
+Line 96: The property name ReadOnly in rectxt is invalid.
+Line 97: The property name ScrollBars in rectxt is invalid.
+Line 98: The property name DisableNoScroll in rectxt is invalid.
+Line 100: The property name AutoVerbMenu in rectxt is invalid.
+Line 101: The property name TextRTF in rectxt is invalid.
